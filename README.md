@@ -3,6 +3,13 @@
 ### Hi there 👋 
 I am a software developer lawyer, I live in Colombia and I am passionate about scraping in order to provide better information to people.
 
+## My values
+💖 Safety and trust<br>
+🌟 Expression as authentic self<br>
+🍏 Beginner's mindset and curiosity<br>
+🙌 Shared norms<br>
+🚀 Elevate the underrepresented
+
 Here are some ideas to get you started:
 
 - 🔭 Currently I don't work for any company, but I don't stop learning new things to continue programming.
